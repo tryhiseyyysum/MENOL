@@ -1,4 +1,4 @@
-# Official implementation of "MENOL:Multimodal-Enhanced Objectness Learner for Corner Case Detection in Autonomous Driving"
+# Official implementation of "MENOL: Multimodal-Enhanced Objectness Learner for Corner Case Detection in Autonomous Driving"
 
 
 ### [Arxiv](https://arxiv.org/abs/2402.02026) | [IEEE Xplore](https://ieeexplore.ieee.org/document/10647363)
